@@ -24,5 +24,10 @@
         "support" : {
                 "source" : "https://github.com/sergeypechenyuk/laravel-elastic",
                 "issues" : "https://github.com/sergeypechenyuk/laravel-elastic/issues"
+        },
+        "extra": {
+                "branch-alias": {
+                        "dev-master": "1.0-dev"
+                }
         }
 }
