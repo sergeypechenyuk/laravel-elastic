@@ -1,5 +1,5 @@
 {
-        "name" : "phpprogs/laravel-elastic",
+        "name" : "sergeypechenyuk/laravel-elastic",
         "description" : "Модуль Laravel для работы с ElasticSearch",
         "authors" : [{
                         "name" : "Sergey Pechenyuk",
