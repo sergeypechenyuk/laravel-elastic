@@ -16,7 +16,7 @@
         "require" : {
                 "php" : ">=5.5.9",
                 "elasticsearch/elasticsearch": ">=1.7",
-                "ixudra/curl": ">=6.2",
+                "ixudra/curl": ">=6.2"
         },
         "autoload" : {
                 "psr-0" : {
